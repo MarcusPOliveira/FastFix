@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FastFix",
+    "slug": "FastFix",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
