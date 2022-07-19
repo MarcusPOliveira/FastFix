@@ -9,7 +9,7 @@ import {
 
 import { THEME } from './src/styles/theme';
 import { Loading } from './src/components/Loading';
-import { SignIn } from './src/screens/SignIn';
+import { Routes } from './src/routes';
 
 export default function App() {
   const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_700Bold });
@@ -18,7 +18,7 @@ export default function App() {
     <NativeBaseProvider theme={THEME} >
       <StatusBar barStyle='light-content' translucent backgroundColor="transparent" />
       {
-        fontsLoaded ? <SignIn /> : <Loading />
+        fontsLoaded ? <Routes /> : <Loading />
       }
     </NativeBaseProvider>
   );
