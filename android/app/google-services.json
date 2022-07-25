@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112109066997",
+    "project_id": "fastfix-a974b",
+    "storage_bucket": "fastfix-a974b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112109066997:android:fcf9621991402c98bd83bc",
+        "android_client_info": {
+          "package_name": "com.fastfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112109066997-31os7e2mo2hlfnpbkcb162napt5u3utt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKZW-rZmBtb1eLXUUKqPhqpNtSxa0_Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112109066997-31os7e2mo2hlfnpbkcb162napt5u3utt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
